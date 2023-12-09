@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 ### **Jiawei** Zhang (张佳伟)
 
-I am a zero-year master student at [NCEPU](https://www.ncepu.edu.cn/), studying under Professor Li Yuancheng and following Dr. Li Changlin in the field of artificial intelligence. I have a passion for the intersection of computer vision and natural language processing. At the same time, I am also an avid open source advocate.
+I am a zero-year master student at [NCEPU](https://www.ncepu.edu.cn/), studying under Professor Li Yuancheng and following Dr. Li Changlin in the field of artificial intelligence. I have larger passion for the intersection of computer vision and natural language processing. I am also an avid open source advocate.
