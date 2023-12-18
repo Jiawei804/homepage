@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This is my new scolar homepage. I will update it soon.
+This is my new academic homepage. I will update it soon.
