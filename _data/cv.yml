@@ -82,13 +82,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer Vision.
+    - title: Multimodal.
       items: 
-        - multimodal.
-        - training accelerate.
-    - title: Natural Language Processing.
+        -
+    - title: Training accelerate.
       items:
-        - large language models.
+        -
 
 - title: Other Interests
   type: list
